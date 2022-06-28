@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @knutfineid
+- 👀 I’m interested in technology and almost all sports.
+- 🌱 I’m currently learning basic code.
